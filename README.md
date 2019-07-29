@@ -1,5 +1,5 @@
 # Unit Testing Basics
-## Sofware Engineering for Scientists
-## CU, Boulder
+Sofware Engineering for Scientists
+CU, Boulder
 
-Basics of unit testing
+`$ python -m unittest test_calc.py`
